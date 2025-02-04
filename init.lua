@@ -852,6 +852,7 @@ require('lazy').setup({
       vim.g.gruvbox_material_background = 'hard'
 
       -- Opcional: Habilitar mejor contraste
+      -- comentario
       vim.g.gruvbox_material_enable_bold = 1
       vim.g.gruvbox_material_enable_italic = 1
       vim.g.gruvbox_material_enable_italic = true
